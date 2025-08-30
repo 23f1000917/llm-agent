@@ -1,5 +1,5 @@
 
-# 🌐 LLM Agent [GyaanSetu](https://tds-bonus-project-llm-agent.vercel.app/) — Browser-Based Multi-Tool Reasoning
+# 🌐 LLM Agent — Browser-Based Multi-Tool Reasoning
 
 This project is a **proof-of-concept (POC)** for building a **browser-based LLM agent** that can combine **natural language reasoning** with **external tools** like search engines, pipelined APIs, and even **live JavaScript execution**.  
 
@@ -154,13 +154,3 @@ This POC reimplements the above loop in **browser JavaScript**, connected to pro
 * [AI Pipe](https://aipipe.org/) for proxy API workflows
 * OpenAI/Anthropic/Google for LLM providers
 * Bootstrap for UI components
-
----
-
-🔮 **Next Steps**
-
-* Add **conversation persistence** with IndexedDB/localStorage.
-* Enable **streaming token-by-token responses**.
-* Expand tools: file parsing, charting, SQL, etc.
-
----
